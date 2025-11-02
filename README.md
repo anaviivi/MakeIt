@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MakeIt – Kreative Ideen & Inspiration</title>
+  MakeIt – Kreative Ideen & Inspiration
   
   <style>
     body {
@@ -16,7 +16,7 @@
     header {
       text-align: center;
       padding: 2rem 1rem;
-      background-color: #fff;
+      background-color: #grey;
       border-bottom: 1px solid #e0e0e0;
     }
 
@@ -75,7 +75,7 @@
 
 <body>
   <header>
-    <img src="images/MakeIt.png" alt="MakeIt Logo" class="logo">
+    <img src="images/MakeIt.png alt="MakeIt Logo" class="logo">
     <nav>
       <ul>
         <li><a href="index.html" class="active">Start</a></li>
