@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  MakeIt – Kreative Ideen & Inspiration
+  <title>MakeIt – Kreative Ideen & Inspiration</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -34,7 +34,8 @@
     <p>© 2025 MakeIt | Kreativität leben</p>
   </footer>
 </body>
-</html>
+
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Montserrat:wght@300;500&display=swap');
 
 body {
@@ -101,3 +102,5 @@ footer {
   color: #777;
   border-top: 1px solid #e0e0e0;
 }
+ </style>
+ </html>
