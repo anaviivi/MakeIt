@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Mein Blog</title>
+  Mein Blog
 </head>
 <body>
   <h1>Willkommen auf meinem Blog!</h1>
